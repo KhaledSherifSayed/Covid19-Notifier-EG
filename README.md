@@ -15,7 +15,7 @@
 <table style="width:100%">
   <tr>
     <th>Main Screen (Total Report)</th>
-    <th>Main Screen (State Report List)</th>
+    <th>Main Screen (History Report List)</th>
     <th>Notification in the System Tray</th>
   </tr>
   <tr>
