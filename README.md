@@ -19,9 +19,9 @@
     <th>Notification in the System Tray</th>
   </tr>
   <tr>
-    <td><img src="screens/home.jpg"/></td>
-    <td><img src="screens/history.jpg"/></td> 
-    <td><img src="screens/notifications.jpg"/></td>
+    <td><img src="screens/home.png"/></td>
+    <td><img src="screens/history.png"/></td> 
+    <td><img src="screens/notifications.png"/></td>
   </tr>
 </table>
 
