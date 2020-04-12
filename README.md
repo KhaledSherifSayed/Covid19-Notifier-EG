@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="art/icon.png" height="200"/>
+  <img src="screens/icon.png" height="200"/>
 </p>
 
 # 🔔 COVID19 Notifier - Egypt
