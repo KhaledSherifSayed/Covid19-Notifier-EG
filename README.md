@@ -69,7 +69,7 @@
 
 ## Credits
 - Thanks to [COVID-19-Sports](https://api-sports.io/documentation/covid-19) for open-source API. 
-- Thanks to [Shreyas Patil] (https://github.com/PatilShreyas) because of him I learned a lot in the world of Android and with his [Covid19-Notifier-IN] (https://github.com/PatilShreyas/Covid19-Notifier-IN) I dealt with new things so thank you for his great effort .
+- Thanks to [Shreyas Patil](https://github.com/PatilShreyas) because of him I learned a lot in the world of Android and with his [Covid19-Notifier-IN](https://github.com/PatilShreyas/Covid19-Notifier-IN) I dealt with new things so thank you for his great effort .
 
 
 ## License
