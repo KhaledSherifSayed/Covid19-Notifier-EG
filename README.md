@@ -12,6 +12,8 @@
 
 ***You can Install and test latest Covid19 Notifier app from below 👇***
 
+[![Covid19 App](https://img.shields.io/badge/Covid19Notifier-APK-blue.svg?style=for-the-badge&logo=android)](https://github.com/KhaledSherifSayed/Covid19-Notifier-EG/raw/master/app/app-debug.apk)
+
 <table style="width:100%">
   <tr>
     <th>Main Screen (Total Report)</th>
@@ -27,7 +29,7 @@
 
 
 ## About
-- It simply loads **Total COVID19 cases in Egypt** from [API](https://api-sports.io/documentation/covid-19). 
+- It simply loads **Total COVID19 cases in Egypt** from [API](https://api-sports.io/documentation/covid-19) You need to update value of     XRAPIDAPIKEY in Constants file with Your Key This is very important. 
 - It notifies total cases of COVID19 in Egypt after every 1 hours.
 - It is offline capable (Using Cache) 😃.
 
@@ -66,8 +68,8 @@
 
 
 ## Credits
-Thanks to [COVID-19-Sports](https://api-sports.io/documentation/covid-19) for open-source API.
-
+- Thanks to [COVID-19-Sports](https://api-sports.io/documentation/covid-19) for open-source API. 
+- Thanks to [Shreyas Patil](https://github.com/PatilShreyas) because of him I learned a lot in the world of Android and with his [Covid19-Notifier-IN](https://github.com/PatilShreyas/Covid19-Notifier-IN) I dealt with new things so thank you for his great effort .
 
 
 ## License
