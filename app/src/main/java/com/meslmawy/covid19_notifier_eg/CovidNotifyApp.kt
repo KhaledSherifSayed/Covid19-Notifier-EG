@@ -1,6 +1,8 @@
 package com.meslmawy.covid19_notifier_eg
 
 import android.app.Application
+import com.meslmawy.covid19_notifier_eg.di.networkModule
+import com.meslmawy.covid19_notifier_eg.di.viewModelModule
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.InternalCoroutinesApi
 import org.koin.android.ext.koin.androidContext
@@ -13,7 +15,7 @@ class CovidNotifyApp : Application() {
         super.onCreate()
         startKoin {
             androidContext(applicationContext)
-            //modules(networkModule, viewModelModule)
+            modules(networkModule, viewModelModule)
         }
     }
 }
