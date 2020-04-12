@@ -12,6 +12,8 @@
 
 ***You can Install and test latest Covid19 Notifier app from below 👇***
 
+[![Covid19 App](https://img.shields.io/badge/Covid19Notifier-APK-blue.svg?style=for-the-badge&logo=android)](https://github.com/KhaledSherifSayed/Covid19-Notifier-EG/blob/master/app/app-debug.apk)
+
 <table style="width:100%">
   <tr>
     <th>Main Screen (Total Report)</th>
