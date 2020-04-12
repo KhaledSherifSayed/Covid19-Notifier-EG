@@ -85,7 +85,7 @@ class NotificationWorker(private val context: Context,
             val totalDetails = result[0].data.historyDataList[0]
 
             showNotification(
-                totalDetails.total.toString(),
+                totalDetails.cases.total.toString(),
                 getPeriod(
                     SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss")
                         .parse(totalDetails.lastUpdatedTime)

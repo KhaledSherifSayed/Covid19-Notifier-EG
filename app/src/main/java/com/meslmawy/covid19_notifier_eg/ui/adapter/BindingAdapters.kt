@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat
 @BindingAdapter("totalconfirmedText")
 fun bindtotalconfirmedtext(textConfirmedTextView: TextView, item: ResponseItem?) {
     if (item != null) {
-        textConfirmedTextView.text = item.total.toString()
+        textConfirmedTextView.text = item.cases.total.toString()
     }
 }
 
